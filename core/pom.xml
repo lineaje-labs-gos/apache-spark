@@ -33,6 +33,7 @@
 
   <properties>
     <sbt.project.name>core</sbt.project.name>
+    <hadoop.version>3.4.0</hadoop.version>
   </properties>
   
   <dependencies>
